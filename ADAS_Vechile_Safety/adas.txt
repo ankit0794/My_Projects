@@ -1,1 +1,1 @@
-
+This project includes one of the major feature of adas vechile safety and i.e. sign prediction in order to understand and take necessary steps as a precautionary measure.
